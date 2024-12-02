@@ -8,14 +8,12 @@ This project is part of the Ironhack Data Analysis Course (August 2024 - Februar
 [Here](https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa), you can download the dataset which can also be found in this repository.
 The dataset contains 21 columns and 21,613 rows and the data points span over one year from May 2014 to May 2015.
 
-## Repository Structure (not finished)
+## Repository Structure
     .
-    ├── Data                                # data folder
-    │   ├── king_ country_ houses_aa.csv    # original data given to us
-    ├── Images                              # project image/graph files
-    ├── presentation                        # pdf with the project presentation
-    ├── anything else?                           # da da da
-    ├── IronRegression.ipynb                # all code, EDA, regression models
+    ├── images                                      # data folder: project image/graph files
+    ├── all-code_house-price_IronRegression.ipynb   # all code, EDA, regression models
+    ├── king_ country_ houses_aa.csv                # original dataset
+    ├── presentation                                # pdf with the project presentation
     └── README.md
 
 ## Approach
